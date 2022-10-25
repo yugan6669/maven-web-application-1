@@ -104,7 +104,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>yuga  </name>
+	      <name>nexus</name>
 	      <url>http://3.6.38.192:8081/repository/yuga-maven-1/</url>
 	    </snapshotRepository>
 	    
