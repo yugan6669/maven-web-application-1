@@ -8,8 +8,7 @@
 	<packaging>war</packaging>
 	
 	<name>maven-web-application</name>
-
-	<description>Maven Web Project for Java Programming Language</description>
+        <description>Maven Web Project for Java Programming Language</description>
 
 	<organization>
 		<name>Mithun Technologies</name>
